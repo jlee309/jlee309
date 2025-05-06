@@ -1,29 +1,26 @@
 # 👋 Hi, I’m Jin Hyung Lee
 
-**Ph.D. Candidate, Department of Statistics, George Mason University**
+**My name is Jin Hyung Lee, and I am a Ph.D. candidate in Statistics at George Mason University, expecting to graduate in December 2025. I am advised by Dr.Ben Seiyon Lee, and my dissertation research focuses on Bayesian Statistics, Machine learning, Variational Inference, and spatial Statistics. **
 
 ---
 
 ## 🔬 Research Interests
-- **Spatial Statistics** • Modeling spatial dependence in environmental data  
-- **Bayesian Inference** • MCMC, HMC, and Semi-Implicit Variational Inference (SIVI)  
+- **Variational Inference** 
+- **Spatial Statistics** 
+- **Bayesian Inference** 
+- **Deep Learning** 
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Python (PyTorch, NumPy, SciPy), R, Stan  
-- **Libraries:** GPyTorch, Pyro, Matplotlib, seaborn  
-- **Methods:** MCMC/HMC, VI/BBVI/SIVI, Covariance modeling, GEV/Extreme-value theory  
+- **Languages:** R, Python (PyTorch, NumPy, SciPy), SQL, MATLAB, SAS
 
 ---
 
 ## 💼 Projects & Publications
-- **GEV Spatial Bayesian Modeling**  
-  - Implemented SIVI + IAF flows in PyTorch for spatial GEV inference  
-  - Comparison with MH-based MCMC, evaluated via RMSPE & AUC  
-- **Quality Tolerance Limit Monitoring** (Pharma Statistics, co-author)  
+- **Lee, J.H., and Lee, B.S. A Scalable Variational Bayes Approach to Fit High-dimensional Spatial Generalized Linear Mixed Models**  [Under Review](https://arxiv.org/pdf/2402.15705)
+- **Bayesian Methods for Quality Tolerance Limit (QTL) Monitoring** ([Pharmaceutical Statistics](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.2427))  
 - *More on [My Google Scholar](https://scholar.google.com/citations?user=0GAf5N8AAAAJ&hl=ko)*  
-
 ---
 
 ## 📫 Get in Touch
