@@ -33,3 +33,10 @@ Prior to joining George Mason, Jin served as a Senior Researcher at the [Korea I
 
 - **Email:** jlee309@gmu.edu  
 - **LinkedIn:** https://www.linkedin.com/in/leejinhyung/
+
+---
+
+## CV
+[PDF](https://www.dropbox.com/scl/fi/3mhd6focz8grhqxkb1ykr/Jin_Hyung_Lee_CV.pdf?rlkey=r4it94oqskwy6655lntmnepbr&st=ujyidbcq&dl=0)
+
+---
