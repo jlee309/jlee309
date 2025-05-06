@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Jin Hyung Lee
+# 👋 Background
 
-**My name is Jin Hyung Lee, and I am a Ph.D. candidate in Statistics at George Mason University, expecting to graduate in December 2025. I am advised by Dr.Ben Seiyon Lee, and my dissertation research focuses on Bayesian Statistics, Machine learning, Variational Inference, and spatial Statistics. **
+My name is Jin Hyung Lee, and I am a Ph.D. candidate in Statistics at George Mason University, expecting to graduate in December 2025. I am advised by Dr.Ben Seiyon Lee, and my dissertation research focuses on Bayesian Statistics, Machine learning, Variational Inference, and spatial Statistics. 
 
 ---
 
@@ -28,5 +28,3 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/leejinhyung/)  
 
 ---
-
-![Jin’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jlee309&show_icons=true&theme=green)
