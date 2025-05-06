@@ -1,10 +1,6 @@
 # 👋 Background
 
-I am a Ph.D. candidate in Statistics at George Mason University, expected to graduate in December 2025. I am advised by [Dr. Ben Seiyon Lee](https://sites.google.com/view/benslee/), and my dissertation research focuses on variational inference, Bayesian statistics, machine learning, and spatial statistics.
-
-Before joining George Mason, I worked as a senior researcher at the [Korea International Trade Association](https://www.kita.org/). While there, I earned an M.S. in Biostatistics from the School of Public Health at [Seoul National University](https://health.snu.ac.kr/en/), under the supervision of [Dr. Ho Kim](https://health.snu.ac.kr/en/snu__professor/%EA%B9%80%ED%98%B8/).
-
-I completed my B.A. in Applied Statistics and Economics at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp).
+I am a Ph.D. candidate in Statistics at George Mason University, expected to graduate in December 2025. I am advised by [Dr. Ben Seiyon Lee](https://sites.google.com/view/benslee/), and my dissertation research focuses on variational inference, Bayesian statistics, machine learning, and spatial statistics. Before joining George Mason, I worked as a senior researcher at the [Korea International Trade Association](https://www.kita.org/). While there, I earned an M.S. in Biostatistics from the School of Public Health at [Seoul National University](https://health.snu.ac.kr/en/), under the supervision of [Dr. Ho Kim](https://health.snu.ac.kr/en/snu__professor/%EA%B9%80%ED%98%B8/). I completed my B.A. in Applied Statistics and Economics at [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp).
 
 
 
