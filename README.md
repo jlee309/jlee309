@@ -23,8 +23,8 @@ Prior to joining George Mason, Jin served as a Senior Researcher at the [Korea I
 
 ## Projects & Publications
 
-- **Lee, J.H. & Lee, B.S.** (Under Review). _A Scalable Variational Bayes Approach to Fit High-Dimensional Spatial Generalized Linear Mixed Models_. [arXiv:2402.15705](https://arxiv.org/pdf/2402.15705)  
-- **Poythress, J.C., Lee, J.H.**, et al. (2023). “Bayesian Methods for Quality Tolerance Limit (QTL) Monitoring.” _Pharmaceutical Statistics_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.2427)  
+- **Lee, J.H. & Lee, B.S.** (_Under Review_). A Scalable Variational Bayes Approach to Fit High-Dimensional Spatial Generalized Linear Mixed Models. [arXiv:2402.15705](https://arxiv.org/pdf/2402.15705)  
+- **Poythress, J.C., Lee, J.H.**, et al. (2024). “Bayesian Methods for Quality Tolerance Limit (QTL) Monitoring.” _Pharmaceutical Statistics_. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.2427)  
 - *Additional publications available on [Google Scholar](https://scholar.google.com/citations?user=0GAf5N8AAAAJ&hl=ko).*  
 
 ---
