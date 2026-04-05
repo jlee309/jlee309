@@ -11,7 +11,8 @@ Prior to joining George Mason, Jin served as a Senior Researcher at the [Korea I
 - Variational Inference  
 - Spatial Statistics  
 - Bayesian Inference  
-- Deep Learning  
+- Deep Learning
+- Normalizing Flows  
 
 ---
 
